@@ -1,0 +1,30 @@
+
+#grid{
+    width: 73%;
+    background-color: rgb(161, 161, 161);
+    margin: 20px;
+}
+#inCard{
+    background-color:rgb(206, 206, 206) ;
+    width: 110%;
+    text-align: left;
+    line-height: 5px;
+    padding: 5px;
+    margin: 2px;
+    border-radius: 5px;
+    padding: 10px;
+}
+#img{
+    text-align: center;
+    width: 180px;
+    right: auto;
+    padding: 5px;
+}
+
+#add{
+    padding: 5px;    
+}
+
+.search-item{
+    margin-left: 350px;
+}

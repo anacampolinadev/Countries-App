@@ -1,0 +1,28 @@
+#conteiner{
+    padding: 20px;
+}
+
+.ui.grid{
+    width: 75%;
+    background: rgb(143, 145, 143);
+    margin: 2px;
+    padding: 40px;
+    border-radius: 5px;
+
+}
+#region-card{
+    background: rgb(207, 207, 207);
+    margin: 2px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 5px;
+    padding: 3px;
+}
+#region-flag{
+    width: 200px;
+    right: auto;
+}
+#h1{
+    font-size: 20px;
+    padding: 5px;
+}

@@ -1,0 +1,19 @@
+.side-box{
+    text-align: center;
+}
+
+#title{
+    background: rgb(240, 240, 240);
+    color:black;
+    font-size: 20px;
+    padding: 15px;
+    margin:5px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#search{
+    padding: 10px;
+    margin: 5px;
+}
+
